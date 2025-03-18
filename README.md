@@ -1,9 +1,6 @@
 
 # **🐱 Cat Facts API Test**
-This project contains **automated tests** for the [Cat Facts API](https://catfact.ninja/) using **pytest** and **requests**.  
-
-The tests verify that the API correctly returns **random cat facts** and **multiple facts**, ensuring the response format and data integrity.  
-Many thanx to GPT and cats Kuzia 🐈‍⬛ and Bulka 😺 with supporting me during implementing this test task. This is my first python test automation experience!
+This project contains **automated tests** for the [Cat Facts API](https://catfact.ninja/) using **pytest** and **requests**.The tests verify that the API correctly returns **random cat facts** and **multiple facts**, ensuring the response format and data integrity. Many thanx to GPT and cats Kuzia 🐈‍⬛ and Bulka 😺 with supporting me during implementing this test task. This is my first python test automation experience!
 ---
 
 ## **📌 Test Cases**
@@ -37,7 +34,7 @@ pytest -k "test_get_random_fact"
 ## **📸 GIF – Test Execution**
 ![Test Run](assets/test_run.gif)  
 _(This GIF demonstrates the script running locally, verifying API responses.)_
-
+![test_run.gif](test_run.gif)
 ---
 
 ## **🛠️ Technologies Used**
